@@ -2,7 +2,7 @@
   I'm Gokce Kemaloglu, Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://gokce.netlify.app/" target="_blank">
+  <a href="https://gokcee.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
