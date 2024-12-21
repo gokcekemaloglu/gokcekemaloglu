@@ -64,7 +64,6 @@
 👉 Please click on the project names to see the live demo of the projects 👈
   Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
 :-------------------------|-------------------------|-------------------------|-------------------------
-
 [Movie_App](https://movie-app-gokce.vercel.app/)| Firebase Auth ,Tailwind CSS, Toastify, Context API, JavaScript, ReactJS, Router , Axios , Responsive |![Wave Movie App](https://github.com/user-attachments/assets/e3999fa1-fca5-42f4-a9d6-db2f77c95991)|[Source Code](https://github.com/gokcekemaloglu/movie-app)
 
 
