@@ -1,54 +1,73 @@
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Gokce Kemaloglu, Front-End Developer :computer: 
-  </br>
-  <div>
-  <a href="https://gokcee.netlify.app/" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
-  </a>
-  </div> 
-<p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
- </p>
+## 
+<div align=center>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hi🖐+I'm+Gokce;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;" alt="Typing SVG" /></a>
+</div>
+
+<div>
+  <p style="color: #FF69B4; font-size: 1.2em; font-weight: bold;">:snowboarder: I'm a Full Stack Developer</p>
+  <p style="color: #7FFFD4; font-size: 1.2em; font-weight: bold;">:rocket: Currently, I am focusing on <strong>React</strong>, <strong>Node.js</strong>, and <strong>Express.js</strong>...</p>
+  <p style="color: #FFD700; font-size: 1.2em; font-weight: bold;">:hammer_and_wrench: Current Project: Building an advanced blog application called <em>"Bright-Minds Blog"</em> using React and NodeJs.</p>
+  <p style="color: #ADFF2F; font-size: 1.2em; font-weight: bold;">:bulb: This project aims to create a modern and user-friendly blog application where users can easily read, write, and share posts on various topics.</p>
+</div>
+
+
+<div align=center>
+
+#### Connect with me:
+
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokcekemaloglu/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gokce.kemaloglu@gmail.com)
+<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white)]()
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gokcekemaloglu&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokcekemaloglu&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gokcekemaloglu.gokcekemaloglu)
+![](https://komarev.com/ghpvc/?username=gokcekemaloglu&style=flat-square)
 
-## Skills
+</div>
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://styled-components.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="40" height="40" /></a>  
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="40" height="40"/></a> 
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="42" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-</p>
-      
-## Contact Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokcekemaloglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gokcekemaloglu&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="center">
-  <a href="https://gokcecw.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
-  <a href="mailto:gokce.kemaloglu@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/gokcekemaloglu/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
-</p>
+</br>
 
-<p align="right">
-  <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
- </p>
-<!--
-**gokcekemaloglu/gokcekemaloglu** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :telescope: I'
--->
+<div align="center">
+<h2 align="center">:rocket:Technical Skills</h2>
+
+<img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
+<img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
+<img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+<img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+<img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
+<img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
+<img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<br/>
+<img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+<img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+<img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+<img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+</div>
+
+
+## My projects
+👉 Please click on the project names to see the live demo of the projects 👈
+  Project Name       |Libraries and Technologies I use     |How does my project look          |Source Codes       
+:-------------------------|-------------------------|-------------------------|-------------------------
+
+[Movie_App](https://movie-app-gokce.vercel.app/)| Firebase Auth ,Tailwind CSS, Toastify, Context API, JavaScript, ReactJS, Router , Axios , Responsive |![Wave Movie App](https://github.com/user-attachments/assets/e3999fa1-fca5-42f4-a9d6-db2f77c95991)|[Source Code](https://github.com/gokcekemaloglu/movie-app)
+
+
+</div>
+</br>
+<br>
